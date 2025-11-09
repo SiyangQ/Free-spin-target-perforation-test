@@ -85,6 +85,7 @@ Parameters for each test (including calibration file, projectile type, and proje
 
 ## Citation
 If you wish to use the videos, please cite our article:
+
 [1] S. Qiu, X. Li, K. Gong, S. Wang, J. Zhao, H. Liu, Mechanical-impulse detumble dynamics and perforation energy model for the detumble and capture of tumbling space debris, Aerospace Science and Technology  (2026) https://doi.org/10.1016/j.ast.2025.110977.
 
 
